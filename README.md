@@ -7,3 +7,4 @@ An awesome list of reusable chart modules created by the Reuters Graphics team. 
 TK
 ## Maps
 - **Globetrotter** | [Repo](https://github.com/reuters-graphics/chart-module-globetrotter) | [Demo](https://reuters-graphics.github.io/chart-module-globetrotter/) | Spinning globe with customizable markers
+- **Parliament chart** | [Repo](https://github.com/reuters-graphics/chart-module-parliament-chart) | [Demo](https://reuters-graphics.github.io/chart-module-parliament-chart/) | Houses of gov't in the round
