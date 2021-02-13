@@ -9,3 +9,4 @@ An awesome list of reusable chart modules created by the Reuters Graphics team. 
 
 ## Maps
 - **Globetrotter** | [Repo](https://github.com/reuters-graphics/chart-module-globetrotter) | [Demo](https://reuters-graphics.github.io/chart-module-globetrotter/) | Spinning globe with customizable markers
+- **Spike map** | [Repo](https://github.com/reuters-graphics/chart-module-spike-map) | [Demo](https://reuters-graphics.github.io/chart-module-spike-map/) | Spike map with optional voronoi mouse event callbacks for custom tooltips and more
