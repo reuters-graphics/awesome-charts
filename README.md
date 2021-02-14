@@ -3,7 +3,7 @@
 
 An awesome list of reusable chart modules created by the Reuters Graphics team. More for us, but free for you, too!
 
-Mostly made using or [reusable chart module bluprint](https://github.com/reuters-graphics/bluprint_chart-module-svelte).
+Mostly made using our [reusable chart module bluprint](https://github.com/reuters-graphics/bluprint_chart-module-svelte).
 
 ## Charts
 - **Categorical bar chart** | [Repo](https://github.com/reuters-graphics/chart-module-categorical-bar-chart) | [Demo](https://reuters-graphics.github.io/chart-module-categorical-bar-chart/) | Simple categorical horizontal bar chart
