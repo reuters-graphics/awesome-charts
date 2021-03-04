@@ -7,6 +7,7 @@ Mostly made using our [reusable chart module bluprint](https://github.com/reuter
 
 ## Charts
 - **Categorical bar chart** | [Repo](https://github.com/reuters-graphics/chart-module-categorical-bar-chart) | [Demo](https://reuters-graphics.github.io/chart-module-categorical-bar-chart/) | Simple categorical horizontal bar chart
+- **Simple line charts (single and multiple lines)** | [Repo](https://github.com/reuters-graphics/chart-module-line-chart) | [Demo](https://reuters-graphics.github.io/chart-module-line-chart/) | Simple categorical horizontal bar chart
 - **Parliament chart** | [Repo](https://github.com/reuters-graphics/chart-module-parliament-chart) | [Demo](https://reuters-graphics.github.io/chart-module-parliament-chart/) | Houses of gov't in the round
 
 ## Maps
