@@ -8,7 +8,7 @@ Mostly made using our [reusable chart module bluprint](https://github.com/reuter
 ## Charts
 - **Categorical bar chart** | [Repo](https://github.com/reuters-graphics/chart-module-categorical-bar-chart) | [Demo](https://reuters-graphics.github.io/chart-module-categorical-bar-chart/) | Simple categorical horizontal bar chart
 - **Simple line charts (single and multiple lines)** | [Repo](https://github.com/reuters-graphics/chart-module-line-chart) | [Demo](https://reuters-graphics.github.io/chart-module-line-chart/) | Simple line chart
-- **Basic heat map** | [Repo](https://github.com/reuters-graphics/chart-module-heatmap/settings/pages) | [Demo](https://reuters-graphics.github.io/chart-module-chart-module-heatmap/) | Simple heat map
+- **Basic heat map** | [Repo](https://github.com/reuters-graphics/chart-module-heatmap/) | [Demo](https://reuters-graphics.github.io/chart-module-chart-module-heatmap/) | Simple heat map
 
 - **Parliament chart** | [Repo](https://github.com/reuters-graphics/chart-module-parliament-chart) | [Demo](https://reuters-graphics.github.io/chart-module-parliament-chart/) | Houses of gov't in the round
 
