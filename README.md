@@ -13,5 +13,9 @@ Mostly made using our [reusable chart module bluprint](https://github.com/reuter
 - **Parliament chart** | [Repo](https://github.com/reuters-graphics/chart-module-parliament-chart) | [Demo](https://reuters-graphics.github.io/chart-module-parliament-chart/) | Houses of gov't in the round
 
 ## Maps
+- **U.S. county map** | [Repo](https://github.com/reuters-graphics/chart-module-us-county-map-new) | [Demo](https://reuters-graphics.github.io/chart-module-us-county-map-new/) |  [Chart props readme](https://github.com/reuters-graphics/chart-module-us-county-map-new/blob/master/src/js/defaultPropsReadme.js) | Choropleth county map. Can zoom into certain states.
+- **U.S. state cargotram** | [Repo](https://github.com/reuters-graphics/chart-module-us-cartogram) | [Demo](https://reuters-graphics.github.io/chart-module-us-cartogram/) | Cartogram that works with categorical data (custom fill logic) or sequential data (colour scale). Has option to lay out tiles as a rectangular grid for mobile.
+
+
 - **Globetrotter** | [Repo](https://github.com/reuters-graphics/chart-module-globetrotter) | [Demo](https://reuters-graphics.github.io/chart-module-globetrotter/) | Spinning globe with customizable markers
 - **Spike map** | [Repo](https://github.com/reuters-graphics/chart-module-spike-map) | [Demo](https://reuters-graphics.github.io/chart-module-spike-map/) | Spike map with optional voronoi mouse event callbacks for custom tooltips and more
