@@ -6,15 +6,15 @@ An awesome list of reusable chart modules created by the Reuters Graphics team. 
 Mostly made using our [reusable chart module bluprint](https://github.com/reuters-graphics/bluprint_chart-module-svelte).
 
 ## Charts
-- **Categorical bar chart** | [Repo](https://github.com/reuters-graphics/chart-module-categorical-bar-chart) | [Demo](https://reuters-graphics.github.io/chart-module-categorical-bar-chart/) | [Docs on all the chart props](https://github.com/reuters-graphics/chart-module-categorical-bar-chart/blob/master/src/js/defaultPropsReadme.js) | [Examples of charts on a svelte-kit rig page](https://graphics.thomsonreuters.com/testfiles/2021/27WpAgwb9idC/) | [Repo for the page with charts](https://github.com/tr/graphics_2021-chart-module-tester) | Simple categorical horizontal bar chart
+- **Categorical bar chart** | [Repo](https://github.com/reuters-graphics/chart-module-categorical-bar-chart) | [Demo](https://reuters-graphics.github.io/chart-module-categorical-bar-chart/) | [Examples of charts on a svelte-kit rig page](https://graphics.thomsonreuters.com/testfiles/2021/27WpAgwb9idC/) | [Repo for the page with charts](https://github.com/tr/graphics_2021-chart-module-tester) | Simple categorical horizontal bar chart
 - **Simple line charts (single and multiple lines)** | [Repo](https://github.com/reuters-graphics/chart-module-line-chart) | [Demo](https://reuters-graphics.github.io/chart-module-line-chart/) | Simple line chart
 
 
 - **Parliament chart** | [Repo](https://github.com/reuters-graphics/chart-module-parliament-chart) | [Demo](https://reuters-graphics.github.io/chart-module-parliament-chart/) | Houses of gov't in the round
 
 ## Maps
-- **U.S. county map** | [Repo](https://github.com/reuters-graphics/chart-module-us-county-map-new) | [Demo](https://reuters-graphics.github.io/chart-module-us-county-map-new/) |  [Chart props readme](https://github.com/reuters-graphics/chart-module-us-county-map-new/blob/master/src/js/propsReadme.js) | Choropleth county map. Can zoom into certain states.
-- **U.S. state cartogram** | [Repo](https://github.com/reuters-graphics/chart-module-us-cartogram) | [Demo](https://reuters-graphics.github.io/chart-module-us-cartogram/) |  [Chart props readme](https://github.com/reuters-graphics/chart-module-us-cartogram/blob/master/src/js/defaultPropsReadme.js) | Cartogram that works with categorical data (custom fill logic) or sequential data (colour scale). Has option to lay out tiles as a rectangular grid for mobile.
+- **U.S. county map** | [Repo](https://github.com/reuters-graphics/chart-module-us-county-map-new) | [Demo](https://reuters-graphics.github.io/chart-module-us-county-map-new/)  Choropleth county map. Can zoom into certain states.
+- **U.S. state cartogram** | [Repo](https://github.com/reuters-graphics/chart-module-us-cartogram) | [Demo](https://reuters-graphics.github.io/chart-module-us-cartogram/) | Cartogram that works with categorical data (custom fill logic) or sequential data (colour scale). Has option to lay out tiles as a rectangular grid for mobile.
 
 
 - **Globetrotter** | [Repo](https://github.com/reuters-graphics/chart-module-globetrotter) | [Demo](https://reuters-graphics.github.io/chart-module-globetrotter/) | Spinning globe with customizable markers
